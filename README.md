@@ -1,16 +1,10 @@
-# pedidos_app
+<h2>Wine Bar</h2>
 
-A new Flutter project.
+## Descripcion
 
-## Getting Started
+<p>Esta es una aplicacion hecha en Flutter, diseñada para toma de pedidos para un determinado bar, en la que el mozo toma el pedido mediante la aplicacion
+y al momento de confirmar el pedido, carga en base de datos y el pedido se ve reflejado en otra pantalla en tiempo real el pedido cargado</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## BASE DE DATOS
+<p>En este caso particular se decidio por el uso de Supabase, que utiliza como base de datos PostgreSQL</p>
