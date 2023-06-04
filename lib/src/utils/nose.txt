@@ -1,0 +1,17 @@
+              Row(
+                mainAxisAlignment: MainAxisAlignment.start,
+                children: [
+                  Container(
+                    height: 20,
+                    width: 150,
+                    child: Text("Cantidad Comensales:"),
+                  ),
+                  SizedBox(
+                    height: 20,
+                    width: 150,
+                    child: TextField(
+                      
+                    ),
+                  ),
+                ],
+              ),
